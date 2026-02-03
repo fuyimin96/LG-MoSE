@@ -1,5 +1,5 @@
 # LG-MoSE
-Pytorch implementation for Language-Guided Mixture of Spectral Experts for Generalized Hyperspectral Anomaly Detection. (Under review)
+Pytorch implementation for Language-Guided Mixture of Spectral Experts for Generalized Hyperspectral Anomaly Detection. (Undergoing Review)
 
 The code will be released upon acceptance.
 
