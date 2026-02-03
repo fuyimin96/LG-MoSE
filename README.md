@@ -4,5 +4,5 @@ Pytorch implementation for Language-Guided Mixture of Spectral Experts for Gener
 The code will be released upon acceptance.
 
 <p align="center">
-    <img src=./had width="888">
+    <img src=./had.png width="888">
 </p>
