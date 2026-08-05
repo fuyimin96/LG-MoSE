@@ -52,11 +52,6 @@ method=LG-MoSE   # Change this to any method name (e.g., LREN, BockNet, OT-AD)
 (cd "./methods/$method/" && python main.py) 
 ```
 
-## Visualization Result
-<p align="center">
-    <img src=./vis_result.png width="888">
-</p>
-
 
 ## Citation
 If you find our work and this repository useful. Please consider giving a star :star: and citation.
