@@ -62,7 +62,7 @@ def set_seed(seed):
 
 def main(file):
     set_seed(666)
-    num_bs = 188
+    num_bs = 180
 
     # Load data
     dataset = file
